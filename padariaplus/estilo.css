@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+body {
+    background-color: rgba(244,240,229,255);
+    margin: 0 280px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 30px;
+}
+
+.logo {
+    width: 200px;
+    margin-left: -45px;
+}
+
+.since {
+    color: rgba(204,148,103,255);
+    text-align: center;
+}
+
+
+.links a {
+    margin: 0 20px;
+    color: rgb(0, 0, 0);
+
+}
+
+.ctt {
+    color: rgb(0, 0, 0);
+
+}
+
+.outros {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.banner {
+    width: 700px;
+}
+
+.paes, .bolos { 
+    width: 400px;
+    padding-bottom: 10px;
+    margin: auto 150px;
+}
+
+.since {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sub {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+div#secao_1 {
+    margin: 20px auto; 
+    width: 700px;
+    text-align: center;
+}
+
+div#produtos {
+    background-color: rgba(222,142,55,255);
+    width: 700px;
+}
+
+div#contatos p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 4;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    margin: 0 auto;
+    text-align: center;
+    border-top: 3px solid rgba(233,215,189,255);
+    font-size: 26px;
+    padding-top: 30px;
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    font-size: 22px;
+}
+
+.paragrafos {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin: auto 60px ;
+    font-size: 18px;
+    
+}
+
+span {
+    font-weight: bold;
+}
+
