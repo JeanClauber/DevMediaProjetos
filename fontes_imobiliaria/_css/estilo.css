@@ -1,0 +1,143 @@
+@charset "utf-8";
+
+header {
+    background-color: rgba(176,221,252,255);
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    padding: 30px 0px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+.h2azul {
+    color: rgba(96,143,172,255);
+    font-size: 20px;
+}
+
+.lista-1 {
+    display: flex;
+    margin-left: 390px;
+    padding-bottom: 30px;
+}
+
+.lista-2 {
+    margin-left: 560px;
+    text-align: left;
+    padding-bottom: 30px;
+    line-height: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.lista-3 {
+    text-align: center;
+    padding-bottom: 30px;
+    line-height: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto-ilustrativa {
+    width: 350px;
+    height: 250px;
+}
+
+div#sobre {
+    text-align: center;
+}
+
+div#sobre p{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 15px;
+}
+
+div#servicos {
+    background-color: rgba(29,128,193,255);
+    text-align: center;
+}
+
+div#servicos h2 {
+    color: white;
+    padding-top: 40px;
+}
+
+div#servicos p{
+    margin-left: 400px;
+    margin-right: 400px;
+    font: 18px;
+    color: white;
+    line-height: 35px;
+}
+
+div#corretores {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 15px;
+}
+
+div#corretores h2 {
+    color: rgba(29,128,193,255);
+}
+
+div#contato h2 {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+div#corretores p {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+div#contato {
+    background-color: rgba(29,128,193,255);
+    text-align: center;
+}
+
+.destaque-azul {
+    font-weight: bold;
+    color: rgba(83,138,179,255)
+}
+
+.destaque-amarelo {
+    color: yellow;
+    font-weight: bold;
+}
+
+.ctt {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.linkfinal {
+    background-color: white;
+    border-radius: 5px;
+    color: rgba(29,128,193,255);
+    margin: 0 auto;
+    padding: 2px 5px;
+}
+
+iframe{ 
+    padding-bottom: 30px;
+}
